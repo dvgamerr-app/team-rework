@@ -18,13 +18,13 @@ Team Task-List to-do project.
 
 ```bash
 # install dependencies
-$ npm install
+$ bun install
 
 # serve with hot reload at localhost:3000
-$ npm run dev
-$ npm run serv
+$ bun run dev
+$ bun run serv
 
 # build for production and launch server
-$ npm run build
-$ npm start
+$ bun run build
+$ bun run start
 ```

@@ -1,4 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import { defineNuxtConfig } from 'nuxt/config'
+
 // eslint-disable-next-line no-undef
 export default defineNuxtConfig({
   // server: {
